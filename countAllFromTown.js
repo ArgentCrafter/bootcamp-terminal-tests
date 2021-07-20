@@ -12,5 +12,4 @@ module.exports = function countAllFromTown(regString, regTown){
     }
     else{
       return "Please enter a string";
-    }
-    };
+    }};
